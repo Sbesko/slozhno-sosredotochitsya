@@ -1,1 +1,1 @@
-https://github.com/Sbesko/posmotri_v_okno.git
+https://github.com/Sbesko/slozhno-sosredotochitsya.git
