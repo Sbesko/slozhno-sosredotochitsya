@@ -10,11 +10,15 @@
     --item-visibility: hidden;
 
     --bg-color: #fff1f7;
+    --decorated-color: #353430;
+    --color-button-menu: #353430;
+    --color-button-border-hover: rgb(53, 52, 48, .4);
     --accent-color: #ff8dcb;
-    --subtitle-color: #ff8dcb;
+    --subtitle-color: #353430;
     --title-color: #ffc2e6;
     --text-color: #353430;
     --text-main-color: #353430;
+    --shadow-color: #FF8DCB;
   }
 }
 
@@ -28,9 +32,13 @@
   --item-visibility: hidden;
 
   --bg-color: #fff1f7;
+  --decorated-color: #353430;
+  --color-button-menu: #353430;
+  --color-button-border-hover: rgb(53, 52, 48, .4);
   --accent-color: #ff8dcb;
-  --subtitle-color: #ff8dcb;
+  --subtitle-color: #353430;
   --title-color: #ffc2e6;
   --text-color: #353430;
   --text-main-color: #353430;
+  --shadow-color: #FF8DCB;
 }
