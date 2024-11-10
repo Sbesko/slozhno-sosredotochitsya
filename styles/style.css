@@ -10,7 +10,8 @@
     --background-image,
     url(../images/cover-image-dark.png)
   );
-  background-size: no-repeat center;
+  background-position: center;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -104,7 +105,7 @@
 }
 
 .header__theme-menu-button:hover {
-  outline: 1px solid var(--color-button-border-hover, rgb(255, 0, 112, .4));
+  outline: 1px solid var(--color-button-border-hover, rgb(255, 0, 112, 0.4));
   cursor: pointer;
 }
 
@@ -330,11 +331,6 @@
   .sections-title {
     margin-bottom: 0;
   }
-
-  /* .section__main-grid-second {
-    display: flex;
-    flex-direction: column;
-  } */
 
   .title-block-size {
     margin-bottom: 20px;
